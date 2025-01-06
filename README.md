@@ -7,7 +7,19 @@ This project uses a **Mixed-Integer Linear Programming (MILP) model** to allocat
 
 ### The Decision Variables
 Let:
-- \( x_{e,t} \) be a **binary variable** (1 if employee \( e \) is assigned to task \( t \), 0 otherwise).
-- \( c_e \) be the **hourly cost** of employee \( e \).
-- \( d_t \) be the **duration** of task \( t \).
-- \( m_{e,t} \) be the **match score** between employee \( e \) and task \( t \).
+
+$$
+x_{e,t} \text{ is a binary variable} \quad (1 \text{ if employee } e \text{ is assigned to task } t, 0 \text{ otherwise}).
+$$
+
+$$
+c_e \text{ is the hourly cost of employee } e.
+$$
+
+$$
+d_t \text{ is the duration of task } t.
+$$
+
+$$
+m_{e,t} \text{ is the match score between employee } e \text{ and task } t.
+$$
