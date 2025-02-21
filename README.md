@@ -63,6 +63,7 @@ $$
 $$
    x_{e,t} m_{e,t} \geq \text{threshold}, \quad \forall e, t
 $$
+
 7. **Binary assignment:**
    
 $$
