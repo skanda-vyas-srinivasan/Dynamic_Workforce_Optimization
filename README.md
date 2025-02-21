@@ -63,8 +63,7 @@ $$
 $$
    x_{e,t} m_{e,t} \geq \text{threshold}, \quad \forall e, t
 $$
-
-8. **Binary assignment:**
+7. **Binary assignment:**
    
 $$
    x_{e,t} \in \{0,1\}, \quad \forall e, t
