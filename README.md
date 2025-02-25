@@ -3,15 +3,6 @@
 
 **A web-based workforce optimization tool that assigns employees to tasks efficiently based on budget, availability, and flexible skill matching using a Mixed-Integer Linear Programming (MILP) model.**  
 
-## Tech Stack
-### Frontend
-- React.js
-- Material UI
-- Axios
-### Backend
-- Flask
-- PuLP
-
 
 
 ## How it Works: The Optimization Model
